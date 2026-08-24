@@ -121,7 +121,7 @@ Atualmente trabalho na construção de **plataformas SaaS**, **sistemas de gest�
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api?username=XxIsraelx&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api?username=XxIsraelx&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api/top-langs/?username=XxIsraelx&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 </p>
 
