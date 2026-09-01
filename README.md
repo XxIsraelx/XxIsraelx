@@ -120,15 +120,11 @@ Atualmente trabalho na construção de **plataformas SaaS**, **sistemas de gest�
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-psi-85.vercel.app/api?username=XxIsraelx&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api?username=XxIsraelx&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats"/>
-  </picture>
-     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-psi-85.vercel.app/api/top-langs/?username=XxIsraelx&layout=compact&hide=html,css,mermaid&size_weight=0.5&count_weight=0.5&hide_border=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api/top-langs/?username=XxIsraelx&layout=compact&hide=html,css,mermaid&size_weight=0.5&count_weight=0.5&hide_border=true&theme=default" alt="Top Languages"/>
-  </picture>
+  <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api?username=XxIsraelx&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-two-psi-85.vercel.app/api/top-langs/?username=XxIsraelx&layout=compact&hide=html,css,mermaid&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" alt="Top Languages"/>
 </p>
 
 ---
